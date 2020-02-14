@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+  body .loginSec form .divForm span {
+    font-size: 0.7rem;
+  }
+}
